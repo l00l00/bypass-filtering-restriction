@@ -1,3 +1,9 @@
+https://www.notion.so/l00l00/No-root-device-11bc0ac6297280899e37fe81462265bb
+
+https://chatgpt.com/c/6707c666-53b4-8012-8c85-7a41dc794f17
+
+
+
 # bypass-filtering-restriction
 device mobile, using own ubuntu service - strategic approach 
 
